@@ -1,0 +1,8 @@
+{
+  "name": "PeaceTalk: AI Conversation Coach",
+  "description": "An AI-powered conversation coach that analyzes the emotional tone of text and suggests more neutral, empathetic ways to communicate, helping to de-escalate conflicts and foster healthier dialogue.",
+  "requestFramePermissions": [
+    "display-capture",
+    "microphone"
+  ]
+}
